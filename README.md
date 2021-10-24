@@ -1,2 +1,2 @@
 # Blusutils
-We make nice Utils for you
+We create utilities for everyone
