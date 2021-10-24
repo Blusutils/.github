@@ -1,2 +1,2 @@
 # Blusutils
-Description for profile 
+We make nice Utils for you
