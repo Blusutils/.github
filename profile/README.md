@@ -1,6 +1,8 @@
-# Blusutils
-![Logo](https://github.com/Blusutils/.github/blob/main/profile/blusutils_2.png?raw=true)
+<h1 align="center">Blusutils</h1>
 
-We create utilities for everyone. 
+<div align="center"><img src="https://github.com/Blusutils/.github/blob/main/profile/blusutils_2.png?raw=true" alt="Blusutils logo" width="500">
 
-API, libraries, mods, etc.
+
+We create utilities for everyone. </div>
+
+
