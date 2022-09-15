@@ -1,8 +1,19 @@
-<h1 align="center">Blusutils</h1>
+<h1 align="center"><a href="https://blusutils.net" target="_blank">Blusutils</a></h1>
 
 <div align="center"><img src="https://github.com/Blusutils/.github/blob/main/profile/blusutils_2.png?raw=true" alt="Blusutils logo" width="500">
 
+<!-- social networks here -->
 
-We create utilities for everyone. </div>
+## We create utilities for everyone.
+
+### For example...
+[DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server
+
+Public Websites, such as [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) or [SimpleTranslate](https://github.com/Blusutils/SimpleTranslate)
+
+[Blusutils EEE Projects](https://github.com/Blusutils/projEEECTS) such as [alAAARM](https://github.com/Blusutils/alAAARM)
+
+Libraries, such as [blusutilspy](https://github.com/Blusutils/blusutilspy) or [DESCEndLib](https://github.com/Blusutils/DESrv/blob/master/DESCEnd)
+</div>
 
 
