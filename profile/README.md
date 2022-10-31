@@ -4,8 +4,10 @@
 
 <!-- social networks here -->
 
-## We create utilities for everyone.
+## The world is built on little things.
+##### And utilits help support them.
 
+### We create utilities for everyone.
 ### For example...
 [DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server
 
