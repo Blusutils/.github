@@ -16,7 +16,7 @@ Public Websites, such as [Art Prompt Challenge](https://github.com/Blusutils/Art
 
 [Blusutils EEE Projects](https://github.com/Blusutils/projEEECTS) such as [alAAARM](https://github.com/Blusutils/alAAARM)
 
-Libraries, such as [blusutilspy](https://github.com/Blusutils/blusutilspy) or [DESCEndLib](https://github.com/Blusutils/DESrv/blob/master/DESCEnd)
+Libraries, such as [blusutilspy](https://github.com/Blusutils/blusutilspy)
 </div>
 
 
