@@ -9,14 +9,7 @@
 ##### And utilits help support them.
 
 ### We create utilities for everyone.
-### For example...
-[DESrv](https://github.com/Blusutils/DESrv) - Dedicated Extendible Server
 
-Public Websites, such as [Art Prompt Challenge](https://github.com/Blusutils/ArtPromptChallenge) or [SimpleTranslate](https://github.com/Blusutils/SimpleTranslate)
-
-[Blusutils EEE Projects](https://github.com/Blusutils/projEEECTS) such as [alAAARM](https://github.com/Blusutils/alAAARM)
-
-Libraries, such as [blusutilspy](https://github.com/Blusutils/blusutilspy)
 </div>
 
 
