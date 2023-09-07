@@ -12,4 +12,11 @@
 
 </div>
 
+### Our divisions:
+* [**Blusutils**](https://github.com/Blusutils) - the main division
+* [**Firoapps**](https://github.com/Firoapps) - delegated to make a wide range of desktop/mobile apps
+<!-- 
+* [**Syr**](https://github.com/syrdb) - Syr!
+* [**Primland**](https://github.com/primland-fun) - ~~aimed to develop Primland - a Minecraft Vanilla server~~ Well, not now --> 
+
 
