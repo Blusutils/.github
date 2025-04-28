@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://blusutils.net/">
-<img src="https://blusutils.net/blusutils_logo.svg" alt="Blusutils" width="500">
+<img src="[https://blusutils.net/blusutils_logo.svg](https://github.com/user-attachments/assets/7cb5192d-24b9-4f11-922a-74b7e4e55d2e)" alt="Blusutils" width="500">
 </a>
 
 <!-- social networks here -->
